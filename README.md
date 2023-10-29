@@ -10,7 +10,7 @@ This repository contains important documents related to Sprint [Swag Labs] Sprin
 
 ## Test Cycles
 
-The [Test Cycles](./Test%20Cycles/) directory contains detailed information about the test cycles conducted during Sprint [Nome da Sprint]. You'll find individual test cycle reports, test case results, and other relevant testing documentation.
+The [Test Cycles](./Test%20Cycles/) directory contains detailed information about the test cycles conducted during Sprint [Swag Labs] Sprint 1. You'll find individual test cycle reports, test case results, and other relevant testing documentation.
 
 ## Sprint Objectives Mind Map
 
@@ -35,8 +35,8 @@ If you need to make updates or contributions to any of the documents, please fol
 
 ## License
 
-This repository and its contents are licensed under [GCI].
+This repository and its contents are licensed under GCI.
 
 ---
 
-We hope you find this repository useful for managing and accessing documents related to Sprint [Nome da Sprint]. If you have any feedback or suggestions, please let us know.
+We hope you find this repository useful for managing and accessing documents related to Sprint [Swag Labs] Sprint 1. If you have any feedback or suggestions, please let us know.
