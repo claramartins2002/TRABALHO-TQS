@@ -35,7 +35,7 @@ If you need to make updates or contributions to any of the documents, please fol
 
 ## License
 
-This repository and its contents are licensed under [especifique a licença, se aplicável].
+This repository and its contents are licensed under [GCI].
 
 ---
 
