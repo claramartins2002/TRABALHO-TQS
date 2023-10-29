@@ -14,15 +14,15 @@ The [Test Cycles](./Test%20Cycles/) directory contains detailed information abou
 
 ## Sprint Objectives Mind Map
 
-The [Sprint Objectives Mind Map](./Sprint%20Objectives%20Mind%20Map/) directory includes a visual representation of the objectives for Sprint [Nome da Sprint]. This mind map provides an overview of the key goals and deliverables for the Sprint.
+The [Sprint Objectives Mind Map](./Sprint%20Objectives%20Mind%20Map/) directory includes a visual representation of the objectives for Sprint [Swag Labs] Sprint 1. This mind map provides an overview of the key goals and deliverables for the Sprint.
 
 ## Test Report
 
-The [Test Report](./Test%20Report/) directory contains a comprehensive report summarizing the test activities, results, and findings for Sprint [Nome da Sprint]. You can access the detailed test data and analysis in this report.
+The [Test Report](./Test%20Report/) directory contains a comprehensive report summarizing the test activities, results, and findings for Sprint [Swag Labs] Sprint 1. You can access the detailed test data and analysis in this report.
 
 ## Usage
 
-Feel free to browse and download any documents you need for reference or analysis. If you have any questions or need further information, please contact [Seu Nome] at [Seu Endereço de E-mail].
+Feel free to browse and download any documents you need for reference or analysis. If you have any questions or need further information, please contact Gustavo de Pinho Rezende at gustavo.pinhorezende@gmail.com.
 
 ## Contributing
 
